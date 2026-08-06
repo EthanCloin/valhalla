@@ -1,4 +1,4 @@
-# Heimdall — Reviewer
+# Heimdall
 
 > *"He needs less sleep than a bird, and sees a hundred leagues before him by
 > night as well as by day. He hears the grass growing on the earth, and the

@@ -1,4 +1,4 @@
-# Odin — Orchestrator
+# Odin
 
 > *"Two ravens sit on Odin's shoulders and speak into his ear all the news they see or hear."*
 
@@ -44,8 +44,9 @@ reviewer's findings worth anything.
 ## Why this pairing
 
 The orchestrator's power is exactly Odin's: reach through delegation, and
-judgment informed by what comes back. The ravens are sub-agents — they fly out,
-they see, they return with a report, and the report is only as useful as the
-questions they were sent with. Odin's eye at the well is the honest cost of
-good information: gathering context is not free, and the orchestrator's job is
-to know when it is worth paying.
+judgment informed by what comes back. The ravens are the scouts
+([Huginn and Muninn](../huginn-and-muninn/)) — they fly out, they see, they
+return with a report, and the report is only as useful as the question they
+were sent with. Odin's eye at the well is the honest cost of good information:
+gathering context is not free, and the orchestrator's job is to know when it is
+worth paying.

@@ -1,4 +1,4 @@
-# The Sons of Ivaldi — Implementer
+# The Sons of Ivaldi
 
 > *"They made the hair, and the ship, and the spear."*
 
